@@ -10,7 +10,6 @@ Aplikasi ini adalah layanan backend berbasis web menggunakan Flask yang menyedia
 * **SAST Tool:** Bandit
 
 ## 3. Cara Menjalankan Aplikasi
-1. Clone repository ini:
+1.  install depedensi
    ```bash
-   git clone [https://github.com/Denyidns/devsecops-p5-0110225163-DeniMaulana.git](https://github.com/Denyidns/devsecops-p5-0110225163-DeniMaulana.git)
-   cd devsecops-p5-0110225163-DeniMaulana
+   pip install -r requirements.txt
