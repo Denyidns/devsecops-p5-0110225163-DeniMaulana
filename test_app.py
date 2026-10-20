@@ -16,4 +16,4 @@ def is_test_home(client):
 
 def test_validator():
     assert validate_input("valid_data") is True
-    assert validate_input("") is faLse
+    assert validate_input("") is FaLse
